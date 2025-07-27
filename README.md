@@ -1,5 +1,7 @@
 # ⚽ Football Manager App
 
+![Screenshot](https://raw.githubusercontent.com/mohamed-osama45987/football-manager/main/screenshots/football-manager.png)
+
 This is a full-stack Football Manager web application where users can manage their own football teams, buy/sell players on a transfer market, and The system is built using a modern tech stack with focus on modularity, scalability, and developer experience.
 
 ---
