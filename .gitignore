@@ -1,0 +1,15 @@
+# Root
+node_modules/
+.env
+dist/
+frontend/node_modules
+backend/node_modules
+*.log
+coverage/
+frontend/dist
+backend/dist
+frontend/*.env
+backend/*.env
+
+# Editor
+.vscode/
